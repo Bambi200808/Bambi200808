@@ -1,2 +1,2 @@
-# pades-demo
+# pages-demo
 #pages-demo
